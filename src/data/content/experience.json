@@ -1,0 +1,131 @@
+[
+  {
+    "id": "sample-internship",
+    "kind": "work",
+    "startMonth": "2026-08",
+    "endMonth": null,
+    "countsTowardExperience": true,
+    "periodLabel": {
+      "pt-BR": "Ago 2026 — atual",
+      "en": "Aug 2026 — present"
+    },
+    "title": {
+      "pt-BR": "Estágio de TI (exemplo)",
+      "en": "IT internship (sample)"
+    },
+    "org": {
+      "pt-BR": "Empresa Exemplo",
+      "en": "Example Company"
+    },
+    "summary": {
+      "pt-BR": [
+        "Descrição fictícia para o template — suporte, redes e automações."
+      ],
+      "en": [
+        "Fictional description for the template — support, networks, and automation."
+      ]
+    },
+    "tags": [
+      "Linux",
+      "Windows",
+      "Networks",
+      "Docker",
+      "APIs",
+      "n8n"
+    ]
+  },
+  {
+    "id": "sample-support",
+    "kind": "work",
+    "startMonth": null,
+    "endMonth": null,
+    "countsTowardExperience": false,
+    "periodLabel": {
+      "pt-BR": "Período exemplo",
+      "en": "Sample period"
+    },
+    "title": {
+      "pt-BR": "Suporte técnico (exemplo)",
+      "en": "Technical support (sample)"
+    },
+    "org": {
+      "pt-BR": "Empresa Exemplo",
+      "en": "Example Company"
+    },
+    "summary": {
+      "pt-BR": [
+        "Descrição fictícia — sem datas reais inventadas."
+      ],
+      "en": [
+        "Fictional description — no invented real dates."
+      ]
+    },
+    "tags": [
+      "Support",
+      "Troubleshooting"
+    ]
+  },
+  {
+    "id": "sample-cs-degree",
+    "kind": "education",
+    "startMonth": "2024-02",
+    "endMonth": null,
+    "countsTowardExperience": false,
+    "periodLabel": {
+      "pt-BR": "2024 — atual",
+      "en": "2024 — present"
+    },
+    "title": {
+      "pt-BR": "Ciência da Computação (exemplo)",
+      "en": "Computer Science (sample)"
+    },
+    "org": {
+      "pt-BR": "Universidade Exemplo",
+      "en": "Example University"
+    },
+    "summary": {
+      "pt-BR": [
+        "Formação fictícia para o template."
+      ],
+      "en": [
+        "Fictional education entry for the template."
+      ]
+    },
+    "tags": [
+      "Algorithms",
+      "Systems",
+      "Networks"
+    ]
+  },
+  {
+    "id": "sample-tech-course",
+    "kind": "education",
+    "startMonth": null,
+    "endMonth": null,
+    "countsTowardExperience": false,
+    "periodLabel": {
+      "pt-BR": "Concluído (exemplo)",
+      "en": "Completed (sample)"
+    },
+    "title": {
+      "pt-BR": "Curso técnico (exemplo)",
+      "en": "Technical course (sample)"
+    },
+    "org": {
+      "pt-BR": "Instituto Exemplo",
+      "en": "Example Institute"
+    },
+    "summary": {
+      "pt-BR": [
+        "Formação técnica fictícia."
+      ],
+      "en": [
+        "Fictional technical education."
+      ]
+    },
+    "tags": [
+      "Electronics",
+      "Automation"
+    ]
+  }
+]

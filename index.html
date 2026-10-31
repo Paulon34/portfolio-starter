@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+    />
+    <meta
+      name="description"
+      content="Portfolio template — fictional Alex Rivera demo for forking. Linux, infrastructure, software, and automation."
+    />
+    <meta name="theme-color" content="#050507" />
+    <script>
+      (() => {
+        try {
+          const key = 'portfolio-theme-v1'
+          const stored = localStorage.getItem(key)
+          const valid = stored === 'obsidian' || stored === 'electric-blue' || stored === 'light-pro'
+          const theme = valid
+            ? stored
+            : window.matchMedia('(prefers-color-scheme: light)').matches
+              ? 'light-pro'
+              : 'obsidian'
+          document.documentElement.dataset.theme = theme
+          document.documentElement.style.colorScheme =
+            theme === 'light-pro' ? 'light' : 'dark'
+        } catch (_) {
+          document.documentElement.dataset.theme = 'obsidian'
+        }
+      })()
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Syne:wght@500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <title>Alex Rivera — Portfolio Template</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

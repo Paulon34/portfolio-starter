@@ -1,0 +1,119 @@
+[
+  {
+    "id": "sample-lab",
+    "status": "active",
+    "featured": true,
+    "repoPublic": false,
+    "tags": [
+      "Linux",
+      "Virtualization",
+      "Declarative config"
+    ],
+    "title": {
+      "pt-BR": "Lab de exemplo",
+      "en": "Sample lab"
+    },
+    "summary": {
+      "pt-BR": "Homelab fictício para o template — troque pelo seu.",
+      "en": "Fictional homelab for the template — replace with yours."
+    },
+    "detail": {
+      "pt-BR": "Detalhes fictícios de infraestrutura local.",
+      "en": "Fictional local infrastructure details."
+    }
+  },
+  {
+    "id": "demo-api",
+    "status": "planning",
+    "featured": true,
+    "repoPublic": false,
+    "tags": [
+      "TypeScript",
+      "APIs",
+      "Automation"
+    ],
+    "title": {
+      "pt-BR": "API de demonstração",
+      "en": "Demo API"
+    },
+    "summary": {
+      "pt-BR": "Serviço de exemplo com automações fictícias.",
+      "en": "Sample service with fictional automations."
+    },
+    "detail": {
+      "pt-BR": "Detalhes fictícios de API e orquestração.",
+      "en": "Fictional API and orchestration details."
+    }
+  },
+  {
+    "id": "portfolio-site",
+    "status": "showcase",
+    "featured": true,
+    "href": "#",
+    "repoPublic": true,
+    "tags": [
+      "React",
+      "TypeScript",
+      "Vite",
+      "Motion"
+    ],
+    "title": {
+      "pt-BR": "Este template de portfólio",
+      "en": "This portfolio template"
+    },
+    "summary": {
+      "pt-BR": "Site estático com dados editáveis e CVs gerados.",
+      "en": "Static site with editable data and generated CVs."
+    },
+    "detail": {
+      "pt-BR": "Forke, edite o JSON e publique.",
+      "en": "Fork, edit the JSON, and publish."
+    }
+  },
+  {
+    "id": "edge-monitor",
+    "status": "active",
+    "featured": true,
+    "repoPublic": false,
+    "tags": [
+      "Docker",
+      "Monitoring",
+      "Networking"
+    ],
+    "title": {
+      "pt-BR": "Monitor de borda",
+      "en": "Edge monitor"
+    },
+    "summary": {
+      "pt-BR": "Stack fictícia de monitoramento e rede.",
+      "en": "Fictional monitoring and networking stack."
+    },
+    "detail": {
+      "pt-BR": "Detalhes fictícios de observabilidade.",
+      "en": "Fictional observability details."
+    }
+  },
+  {
+    "id": "workflow-kit",
+    "status": "active",
+    "featured": true,
+    "repoPublic": false,
+    "tags": [
+      "n8n",
+      "APIs",
+      "Python"
+    ],
+    "title": {
+      "pt-BR": "Kit de workflows",
+      "en": "Workflow kit"
+    },
+    "summary": {
+      "pt-BR": "Automações de exemplo entre APIs.",
+      "en": "Sample automations across APIs."
+    },
+    "detail": {
+      "pt-BR": "Detalhes fictícios de integração.",
+      "en": "Fictional integration details."
+    }
+  }
+]

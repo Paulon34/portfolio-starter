@@ -1,0 +1,119 @@
+{
+  "firstName": "Alex",
+  "lastName": "Rivera",
+  "fullName": "Alex Rivera",
+  "email": "alex.rivera.demo@example.com",
+  "phone": "",
+  "phoneEnabled": false,
+  "photoSrc": "/images/profile.webp",
+  "githubUrl": "https://github.com/example",
+  "linkedinUrl": "https://www.linkedin.com/in/example",
+  "seekingRemote": true,
+  "primaryItStartMonth": "2026-08",
+  "roles": [
+    "Linux & Infrastructure",
+    "Software Development",
+    "AI & Automation",
+    "Open Source Enthusiast",
+    "Building Real Systems"
+  ],
+  "interestAreas": [
+    "Linux",
+    "Servers",
+    "Networks",
+    "Software",
+    "AI",
+    "Automation",
+    "DevOps",
+    "Virtualization",
+    "Open Source"
+  ],
+  "favoriteTechs": [
+    "Linux",
+    "Docker",
+    "Proxmox",
+    "n8n",
+    "TypeScript",
+    "React",
+    "Python",
+    "APIs",
+    "Zabbix",
+    "Tailscale"
+  ],
+  "socials": [
+    {
+      "id": "github",
+      "label": {
+        "pt-BR": "GitHub",
+        "en": "GitHub"
+      },
+      "href": "https://github.com/example",
+      "enabled": true
+    },
+    {
+      "id": "linkedin",
+      "label": {
+        "pt-BR": "LinkedIn",
+        "en": "LinkedIn"
+      },
+      "href": "https://www.linkedin.com/in/example",
+      "enabled": true
+    },
+    {
+      "id": "email",
+      "label": {
+        "pt-BR": "E-mail",
+        "en": "Email"
+      },
+      "href": "mailto:alex.rivera.demo@example.com",
+      "enabled": true
+    },
+    {
+      "id": "phone",
+      "label": {
+        "pt-BR": "Telefone",
+        "en": "Phone"
+      },
+      "href": "",
+      "enabled": false
+    }
+  ],
+  "headline": {
+    "pt-BR": "Exemplo de portfólio — substitua pelos seus dados.",
+    "en": "Sample portfolio — replace with your own data."
+  },
+  "bio": {
+    "pt-BR": [
+      "Este é um template open-source com dados fictícios.",
+      "Substitua nome, foto, experiências e projetos pelos seus."
+    ],
+    "en": [
+      "This is an open-source template with fictional data.",
+      "Replace the name, photo, experience, and projects with yours."
+    ]
+  },
+  "roleLabel": {
+    "pt-BR": "Atuação",
+    "en": "Role"
+  },
+  "roleValue": {
+    "pt-BR": "Dev de exemplo · Infra & software",
+    "en": "Sample developer · Infra & software"
+  },
+  "focusLabel": {
+    "pt-BR": "Paixões",
+    "en": "Passions"
+  },
+  "focusValue": {
+    "pt-BR": "Linux, redes, software (exemplo)",
+    "en": "Linux, networks, software (sample)"
+  },
+  "seekingLabel": {
+    "pt-BR": "Buscando",
+    "en": "Seeking"
+  },
+  "seekingValue": {
+    "pt-BR": "Oportunidades de exemplo",
+    "en": "Sample opportunities"
+  }
+}

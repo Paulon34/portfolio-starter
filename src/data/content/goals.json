@@ -1,0 +1,17 @@
+{
+  "seekingRemote": true,
+  "targetRoles": {
+    "pt-BR": [
+      "Papel exemplo A",
+      "Papel exemplo B"
+    ],
+    "en": [
+      "Sample role A",
+      "Sample role B"
+    ]
+  },
+  "notes": {
+    "pt-BR": "Objetivo de exemplo do template.",
+    "en": "Sample template objective."
+  }
+}

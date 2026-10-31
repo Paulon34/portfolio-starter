@@ -1,0 +1,6 @@
+{
+  "defaultLocale": "pt-BR",
+  "cvFocus": "infra",
+  "resumePathTemplate": "/resume/alex-rivera-{locale}-{focus}.pdf",
+  "showExperienceCounter": true
+}

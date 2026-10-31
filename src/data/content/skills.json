@@ -1,0 +1,93 @@
+[
+  {
+    "id": "linux",
+    "title": {
+      "pt-BR": "Linux & Sistemas",
+      "en": "Linux & Systems"
+    },
+    "items": [
+      "Linux administration",
+      "Shell",
+      "Servers",
+      "Open Source"
+    ]
+  },
+  {
+    "id": "networks",
+    "title": {
+      "pt-BR": "Redes & Infraestrutura",
+      "en": "Networks & Infrastructure"
+    },
+    "items": [
+      "TCP/IP",
+      "LAN/WAN basics",
+      "Firewall concepts",
+      "Remote access"
+    ]
+  },
+  {
+    "id": "virtualization",
+    "title": {
+      "pt-BR": "Virtualização",
+      "en": "Virtualization"
+    },
+    "items": [
+      "Proxmox",
+      "Containers",
+      "VMs",
+      "Homelab patterns"
+    ]
+  },
+  {
+    "id": "development",
+    "title": {
+      "pt-BR": "Desenvolvimento",
+      "en": "Development"
+    },
+    "items": [
+      "TypeScript",
+      "React",
+      "Python",
+      "APIs",
+      "Git"
+    ]
+  },
+  {
+    "id": "ai",
+    "title": {
+      "pt-BR": "IA & Automação",
+      "en": "AI & Automation"
+    },
+    "items": [
+      "n8n",
+      "Workflow automation",
+      "AI tooling",
+      "Integrations"
+    ]
+  },
+  {
+    "id": "databases",
+    "title": {
+      "pt-BR": "Bancos de Dados",
+      "en": "Databases"
+    },
+    "items": [
+      "SQL basics",
+      "PostgreSQL",
+      "Backups awareness"
+    ]
+  },
+  {
+    "id": "devops",
+    "title": {
+      "pt-BR": "DevOps & Observabilidade",
+      "en": "DevOps & Observability"
+    },
+    "items": [
+      "Docker",
+      "CI awareness",
+      "Zabbix",
+      "Observability basics"
+    ]
+  }
+]

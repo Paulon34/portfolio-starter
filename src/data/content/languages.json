@@ -1,0 +1,24 @@
+[
+  {
+    "id": "pt",
+    "name": {
+      "pt-BR": "Português",
+      "en": "Portuguese"
+    },
+    "level": {
+      "pt-BR": "Nativo",
+      "en": "Native"
+    }
+  },
+  {
+    "id": "en",
+    "name": {
+      "pt-BR": "Inglês",
+      "en": "English"
+    },
+    "level": {
+      "pt-BR": "Leitura técnica / em evolução",
+      "en": "Technical reading / improving"
+    }
+  }
+]
